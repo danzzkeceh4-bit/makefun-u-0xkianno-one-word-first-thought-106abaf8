@@ -1,7 +1,7 @@
 """One Word, First Thought — make.fun bounty entry.
 
 Writes a single word to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output),
-exactly 11 bytes, no trailing newline.
+exactly 10 bytes, no trailing newline.
 """
 
 import os
